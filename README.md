@@ -1,6 +1,6 @@
 # logos
 
-Official logos of [Telecom Etude](https://telecom-etude.fr/). Telecom Etude is a official registered French trademark.
+Official logos of [Telecom Etude](https://telecom-etude.fr/). Telecom Etude is an official registered French trademark.
 
 ## History
 
