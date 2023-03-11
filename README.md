@@ -15,5 +15,5 @@ Official logos of [Telecom Etude](https://telecom-etude.fr/). Telecom Etude is a
 
 ### 2.0.0
 
-- date: mandate 2019-2020
+- date: mandate 2020-2021
 - new logos created by a freelance using Vectornator
